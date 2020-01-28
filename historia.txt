@@ -7,3 +7,5 @@ Estudio en UNSCH
 Lima-Perugit status
 
 git status
+
+agregamos la ultima linea
