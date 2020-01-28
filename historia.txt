@@ -4,4 +4,6 @@ Estudio en UNSCH
 
 2020
 
-Lima-Peru
+Lima-Perugit status
+
+git status
