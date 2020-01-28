@@ -3,9 +3,11 @@ Vive en Ayacucho
 Estudio en UNSCH
 
 2020
-
+gid 
 Lima-Perugit status
 
 git status
 
 agregamos la ultima linea
+
+agregamos la segunda linea
